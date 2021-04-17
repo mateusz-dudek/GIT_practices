@@ -1,1 +1,1 @@
-Branch-1 testy
+Branch-1 testy zmiany wprowadzone na dla branch-conflict-2
